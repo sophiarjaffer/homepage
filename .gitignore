@@ -1,0 +1,13 @@
+/_site/
+/_freeze/
+.quarto/
+*.Rproj
+/.Rproj.user
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+/.quarto/

@@ -1,0 +1,22 @@
+---
+title: "Nature"
+description: "Field notes, seasonal writing, and essays on the non-human world."
+title-block-banner: false
+page-layout: full
+sidebar: false
+listing:
+  id: nature-listing
+  contents:
+    - posts
+    - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-items: 30
+  feed: true
+---
+
+::: {#nature-listing}
+:::

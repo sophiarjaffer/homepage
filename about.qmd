@@ -1,0 +1,29 @@
+---
+title: "About"
+description: "A little about who I am and what this site is for."
+sidebar: false
+page-layout: article
+toc: true
+---
+
+## Who I am
+
+I'm Sophia Jaffer — a writer with a restless curiosity about the world. I find myself drawn to places with deep histories, music that resists easy categorisation, landscapes that remind me how small I am, and art that makes me look twice.
+
+This site is where I put those observations into words.
+
+## What I write about
+
+**Nature** — field notes, seasonal writing, and essays on the non-human world. I'm interested in ecology and in the way attention to the natural world sharpens how we see everything else.
+
+**Music** — listening notes and longer essays. My tastes run from early music to contemporary composition, with many detours in between.
+
+**History** — the past as a lens for the present. I'm drawn to lesser-known corners of history and to the way material culture — objects, buildings, landscapes — carries time.
+
+**Travel** — dispatches from journeys near and far. I write about places slowly and specifically, not comprehensively.
+
+**Arts** — responses to visual art, literature, film, and theatre. More personal essay than review.
+
+## How to reach me
+
+If something I've written resonates with you, or you'd like to suggest a subject, you're welcome to get in touch.

@@ -1,0 +1,22 @@
+---
+title: "Travel"
+description: "Dispatches from journeys near and far, written slowly and specifically."
+title-block-banner: false
+page-layout: full
+sidebar: false
+listing:
+  id: travel-listing
+  contents:
+    - posts
+    - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-items: 30
+  feed: true
+---
+
+::: {#travel-listing}
+:::

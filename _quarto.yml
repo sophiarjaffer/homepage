@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sophia Jaffer"
+  favicon: images/placeholder.png
+  site-url: https://example.com
+
+  navbar:
+    background: "#f0eeeb"
+    foreground: black
+    collapse-below: lg
+    right:
+      - text: "Nature"
+        href: nature/index.qmd
+      - text: "Music"
+        href: music/index.qmd
+      - text: "History"
+        href: history/index.qmd
+      - text: "Travel"
+        href: travel/index.qmd
+      - text: "Arts"
+        href: arts/index.qmd
+      - text: "About"
+        href: about.qmd
+
+  page-footer:
+    background: black
+    foreground: white
+    left: "Copyright &copy; 2025 Sophia Jaffer"
+
+format:
+  html:
+    theme: [lux, rwds.scss]
+    css: rwds.css
+    toc: false
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
+
+execute:
+  freeze: auto

@@ -1,0 +1,239 @@
+---
+pagetitle: "Sophia Jaffer"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+description: |
+  Personal writing on nature, music, history, travel, and arts.
+listing:
+  - id: latest-content
+    contents:
+      - /nature
+      - /music
+      - /history
+      - /travel
+      - /arts
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: nature
+    contents:
+      - /nature
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: music
+    contents:
+      - /music
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: history
+    contents:
+      - /history
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: travel
+    contents:
+      - /travel
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: arts
+    contents:
+      - /arts
+      - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+toc: false
+---
+
+::: {.content-container}
+::: {.top-story .purple-background}
+
+::: grid
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+## Writing on the things that matter
+
+Nature, music, history, travel, and arts — five threads through a life spent paying attention.
+:::
+::: {.g-col-12 .g-col-lg-6 .top-story-text}
+
+[**Explore the latest**](latest-content.qmd)
+
+:::
+:::
+
+:::
+:::
+
+::: {.header-text}
+::: {.content-container}
+::: {.header-block}
+Welcome to **Sophia Jaffer**'s personal site. Here I write about the things that capture my attention — from the natural world to the concert hall, from ancient ruins to contemporary galleries. These are essays, observations, and notes from a curious life.
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="latest-content.qmd">
+
+## Latest
+
+</a>
+
+::: {#latest-content}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+
+## The world is full of things worth noticing — and writing is how I notice them.
+
+::: {.button}
+[About me](about.qmd)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="nature/index.qmd">
+
+## Nature
+
+</a>
+
+::: {#nature}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="music/index.qmd">
+
+## Music
+
+</a>
+
+::: {#music}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="history/index.qmd">
+
+## History
+
+</a>
+
+::: {#history}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="travel/index.qmd">
+
+## Travel
+
+</a>
+
+::: {#travel}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="arts/index.qmd">
+
+## Arts
+
+</a>
+
+::: {#arts}
+:::
+
+:::
+:::
+
+::: {.footer-text}
+::: {.footer-container .black-background}
+::: {.footer-block}
+::: grid
+
+::: {.g-col-12 .g-col-md-3}
+### Sections
+[Nature](nature/index.qmd)\
+[Music](music/index.qmd)\
+[History](history/index.qmd)\
+[Travel](travel/index.qmd)\
+[Arts](arts/index.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-3}
+### About
+[Who I am](about.qmd)\
+[All posts](latest-content.qmd)
+:::
+
+:::
+:::
+:::
+:::

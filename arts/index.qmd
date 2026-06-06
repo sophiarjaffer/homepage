@@ -1,0 +1,22 @@
+---
+title: "Arts"
+description: "Responses to visual art, literature, film, and theatre."
+title-block-banner: false
+page-layout: full
+sidebar: false
+listing:
+  id: arts-listing
+  contents:
+    - posts
+    - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-items: 30
+  feed: true
+---
+
+::: {#arts-listing}
+:::

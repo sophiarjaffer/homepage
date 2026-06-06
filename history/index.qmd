@@ -1,0 +1,22 @@
+---
+title: "History"
+description: "The past as a lens for the present — objects, places, and forgotten stories."
+title-block-banner: false
+page-layout: full
+sidebar: false
+listing:
+  id: history-listing
+  contents:
+    - posts
+    - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-items: 30
+  feed: true
+---
+
+::: {#history-listing}
+:::
