@@ -3,9 +3,10 @@ title: "Elan Valley"
 description: "How to live like a Hobbit."
 author: "Sophia Jaffer"
 date: "2026-06-16"
-image: (images/elan-valley.jpg)
+image: ../../images/elan-valley.jpg
 categories:
   - Wales
+  - Hiking
 ---
 
 ## Elan Valley
