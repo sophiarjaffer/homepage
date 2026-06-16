@@ -93,9 +93,9 @@ toc: false
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-6 .top-story-text}
-## Writing on the things that matter
+## A place for ramblings and reflections.
 
-Nature, music, history, travel, and arts — five threads through a life spent paying attention.
+Thoughts on travel, nature, arts, music and history.
 :::
 ::: {.g-col-12 .g-col-lg-6 .top-story-text}
 
@@ -110,9 +110,7 @@ Nature, music, history, travel, and arts — five threads through a life spent p
 ::: {.header-text}
 ::: {.content-container}
 ::: {.header-block}
-Welcome to **Sophia Jaffer**'s personal site. Here I write about the things that capture my attention — from the natural world to the concert hall, from ancient ruins to contemporary galleries. These are essays, observations, and notes from a curious life.
-:::
-:::
+Before I was an academic, I was an artist. The smartest thing I do day to day is let myself a little time outside to see the sun, feel the rays on my face, watch a raindrop curve down the petal of a struggling flower. Before LinkedIn, there were ladybirds and lollipops and lakes; there was the great, beautiful, awesome swathes of the ocean and the feel of sand between my toes. A place for thoughts, observations, creations and everything in-between. I want to be weird and wonderful! Welcome!
 :::
 
 ::: {.content-container}
