@@ -3,14 +3,12 @@ title: "Elan Valley"
 description: "How to live like a Hobbit."
 author: "Sophia Jaffer"
 date: "2026-06-16"
-image: file:///Users/sophiajaffer/Pictures/Photos%20Library.photoslibrary/resources/derivatives/8/81A13C11-DABB-4D7F-AE7C-BE686725A87D_1_105_c.jpeg
+image: (images/elan-valley.jpg)
 categories:
   - Wales
 ---
 
 ## Elan Valley
-
-### or: How to Live like a Hobbit
 
 In March of 2025, I visited Wales for a few nights with one of my closest friends. We had discovered a dream BnB a year before while attending the Hay Festival at Hay-on-Wye: a love letter to the world’s unapologetic book nerds. Both employed, rolling in our minimally disposable cash, we planned a trip of beautiful breakfasts, gentle strolls through the countryside and a few tasteful hours lying in bed watching every Night at the Museum. The highlight of our trip however, and almost entirely unexpected, was the six hours we got totally lost while “hiking” the stunning Elan Valley. 
 
