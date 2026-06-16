@@ -131,7 +131,7 @@ Before I was an academic, I was an artist. The smartest thing I do day to day is
 ::: {.pullout-container}
 ::: {.pullout-block .black-background}
 
-## The world is full of things worth noticing — and writing is how I notice them.
+## The endless exciting things to write about.
 
 ::: {.button}
 [About me](about.qmd)
