@@ -1,0 +1,43 @@
+[
+  {
+    "listing": "/travel/index.html",
+    "items": [
+      "/travel/posts/2026-06-17-stave-churches.html",
+      "/travel/posts/2025-01-15-lisbon-in-february.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/nature/posts/2025-01-01-the-january-garden.html",
+      "/travel/posts/2026-06-17-stave-churches.html",
+      "/travel/posts/2025-01-15-lisbon-in-february.html"
+    ]
+  },
+  {
+    "listing": "/music/index.html",
+    "items": []
+  },
+  {
+    "listing": "/arts/index.html",
+    "items": []
+  },
+  {
+    "listing": "/nature/index.html",
+    "items": [
+      "/nature/posts/2025-01-01-the-january-garden.html"
+    ]
+  },
+  {
+    "listing": "/latest-content.html",
+    "items": [
+      "/nature/posts/2025-01-01-the-january-garden.html",
+      "/travel/posts/2026-06-17-stave-churches.html",
+      "/travel/posts/2025-01-15-lisbon-in-february.html"
+    ]
+  },
+  {
+    "listing": "/history/index.html",
+    "items": []
+  }
+]
