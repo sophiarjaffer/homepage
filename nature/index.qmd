@@ -1,6 +1,6 @@
 ---
 title: "Nature"
-description: "Field notes, seasonal writing, and essays on the non-human world."
+description: "Thoughts on the natural world."
 title-block-banner: false
 page-layout: full
 sidebar: false
