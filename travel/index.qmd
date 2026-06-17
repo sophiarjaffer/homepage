@@ -1,6 +1,6 @@
 ---
 title: "Travel"
-description: "Dispatches from journeys near and far, written slowly and specifically."
+description: "A diary of my travels."
 title-block-banner: false
 page-layout: full
 sidebar: false

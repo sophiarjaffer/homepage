@@ -1,6 +1,6 @@
 ---
 title: "History"
-description: "The past as a lens for the present — objects, places, and forgotten stories."
+description: "Essays on my historical interests, including and beyond my project."
 title-block-banner: false
 page-layout: full
 sidebar: false

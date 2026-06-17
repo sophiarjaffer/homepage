@@ -1,6 +1,6 @@
 ---
 title: "Arts"
-description: "Responses to visual art, literature, film, and theatre."
+description: "Responses to visual art, literature and film."
 title-block-banner: false
 page-layout: full
 sidebar: false

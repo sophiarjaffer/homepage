@@ -1,6 +1,6 @@
 ---
 title: "Music"
-description: "Listening notes and essays on music across genres and eras."
+description: "For all my musical fascinations."
 title-block-banner: false
 page-layout: full
 sidebar: false

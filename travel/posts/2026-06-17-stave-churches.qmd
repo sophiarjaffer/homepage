@@ -1,6 +1,6 @@
 ---
 title: "Stave Churches in Norway"
-description: "A Sight for Cold Eyes"
+description: "A Sight for Cold Eyes."
 author: "Sophia Jaffer"
 date: "2026-06-17"
 image: "../../images/stave churches.jpeg"
