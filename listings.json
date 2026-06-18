@@ -9,6 +9,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/arts/posts/2026-06-18-still-life.html",
       "/nature/posts/2025-01-01-the-january-garden.html",
       "/travel/posts/2026-06-17-stave-churches.html",
       "/travel/posts/2025-01-15-lisbon-in-february.html"
@@ -20,7 +21,9 @@
   },
   {
     "listing": "/arts/index.html",
-    "items": []
+    "items": [
+      "/arts/posts/2026-06-18-still-life.html"
+    ]
   },
   {
     "listing": "/nature/index.html",
@@ -31,6 +34,7 @@
   {
     "listing": "/latest-content.html",
     "items": [
+      "/arts/posts/2026-06-18-still-life.html",
       "/nature/posts/2025-01-01-the-january-garden.html",
       "/travel/posts/2026-06-17-stave-churches.html",
       "/travel/posts/2025-01-15-lisbon-in-february.html"
