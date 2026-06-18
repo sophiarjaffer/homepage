@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google64676c9d187df6ef.html
 
 website:
   title: "Sophia Jaffer"
