@@ -3,14 +3,14 @@ title: "Laverstock Hill in Bloom"
 description: "Lockdown walks down memory (dirt)lane."
 author: "Sophia Jaffer"
 date: "2026-06-21"
-image: "images/Laverstock Hill.JPG"
+image: "/images/Laverstock Hill.JPG"
 categories:
   - Landscapes
 ---
 
 ## Laverstock Hill in Bloom
 
-![](../images/Laverstock%20Hill.JPG)
+![](../../images/Laverstock%20Hill.JPG)
 
 I spent many afternoons during my school years up Laverstock Hill. Although I have not visited in a while, it is still warmly wrapped up in nostalgia, the soft blanket of childhood memory. I have videos and photographs of rolling down the grassy dunes of the field behind my school, of the herd of cows that roved intermittently across the downs, of the swing fashioned from old rope and a plank of wood that sat overlooking the city. In PE, they made us run up and back down the hill for cross country. The yearly ‘mini marathon’ was a mile-round trip of the muddy, trodden paths up to the hill. It has been a while since I’ve done that walk, years, but I can still remember the route like the back of my hand, could do it blindfolded, even. In those memories, I recall a very straightforward time, my life regimented by timetables and lunches and GCSE exams. Yet, they were also the careless years, the years before pretending, when I was old enough to know who I was but still young enough not to question it. Who could hold their handstand for the longest? How do I get out of this year’s Sports Day? Whose house for a sleepover? 
 
