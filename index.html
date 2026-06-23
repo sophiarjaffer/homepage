@@ -140,9 +140,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -358,7 +358,31 @@ window.Quarto = {
 </a><p><a href="./latest-content.html"></a></p>
 <div id="listing-latest-content" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TGFuZHNjYXBlcw==" data-listing-date-sort="1781996400000" data-listing-file-modified-sort="1782071494120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
+<div class="g-col-1" data-index="0" data-categories="UGxheWxpc3Q=" data-listing-date-sort="1782169200000" data-listing-file-modified-sort="1782251411059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="966">
+<a href="./music/posts/2026-06-23-desert-island-disks.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/desert-island-disks.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Desert Island Disks
+</h5>
+<div class="card-text listing-description delink">
+<p>Five songs I can’t live without.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sophia Jaffer
+</div>
+<div class="listing-date">
+Jun 23, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TGFuZHNjYXBlcw==" data-listing-date-sort="1781996400000" data-listing-file-modified-sort="1782251411060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
 <a href="./nature/posts/2026-06-21-laverstock-hill.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -382,7 +406,7 @@ Jun 21, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="TXklMjBBcnQlMkNJbXByZXNzaW9uaXNtJTJDUG9zdC1JbXByZXNzaW9uaXNtJTJDU3RpbGwlMjBMaWZl" data-listing-date-sort="1781737200000" data-listing-file-modified-sort="1781796703785" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="632">
+<div class="g-col-1" data-index="2" data-categories="TXklMjBBcnQlMkNJbXByZXNzaW9uaXNtJTJDUG9zdC1JbXByZXNzaW9uaXNtJTJDU3RpbGwlMjBMaWZl" data-listing-date-sort="1781737200000" data-listing-file-modified-sort="1782251410800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="632">
 <a href="./arts/posts/2026-06-18-still-life.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -401,30 +425,6 @@ Sophia Jaffer
 </div>
 <div class="listing-date">
 Jun 18, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="QmlyZHM=" data-listing-date-sort="1781650800000" data-listing-file-modified-sort="1781713015384" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="541">
-<a href="./nature/posts/2025-01-01-the-january-garden.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/black swans.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Black Swan(s)
-</h5>
-<div class="card-text listing-description delink">
-<p>Reflecting on the elusive Black Swan along Exeter Quay.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Sophia Jaffer
-</div>
-<div class="listing-date">
-Jun 17, 2026
 </div>
 </div>
 </div>
@@ -452,7 +452,7 @@ Jun 17, 2026
 </a><p><a href="./nature/index.html"></a></p>
 <div id="listing-nature" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TGFuZHNjYXBlcw==" data-listing-date-sort="1781996400000" data-listing-file-modified-sort="1782071494120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
+<div class="g-col-1" data-index="0" data-categories="TGFuZHNjYXBlcw==" data-listing-date-sort="1781996400000" data-listing-file-modified-sort="1782251411060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
 <a href="./nature/posts/2026-06-21-laverstock-hill.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -476,7 +476,7 @@ Jun 21, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="QmlyZHM=" data-listing-date-sort="1781650800000" data-listing-file-modified-sort="1781713015384" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="541">
+<div class="g-col-1" data-index="1" data-categories="QmlyZHM=" data-listing-date-sort="1781650800000" data-listing-file-modified-sort="1782251411060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="541">
 <a href="./nature/posts/2025-01-01-the-january-garden.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -512,7 +512,30 @@ Jun 17, 2026
 </a><p><a href="./music/index.html"></a></p>
 <div id="listing-music" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-categories="UGxheWxpc3Q=" data-listing-date-sort="1782169200000" data-listing-file-modified-sort="1782251411059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="966">
+<a href="./music/posts/2026-06-23-desert-island-disks.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/desert-island-disks.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Desert Island Disks
+</h5>
+<div class="card-text listing-description delink">
+<p>Five songs I can’t live without.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sophia Jaffer
+</div>
+<div class="listing-date">
+Jun 23, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
@@ -538,7 +561,7 @@ Jun 17, 2026
 </a><p><a href="./travel/index.html"></a></p>
 <div id="listing-travel" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Tm9yd2F5JTJDQXJjaGl0ZWN0dXJl" data-listing-date-sort="1781650800000" data-listing-file-modified-sort="1781713015386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
+<div class="g-col-1" data-index="0" data-categories="Tm9yd2F5JTJDQXJjaGl0ZWN0dXJl" data-listing-date-sort="1781650800000" data-listing-file-modified-sort="1782251411061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
 <a href="./travel/posts/2026-06-17-stave-churches.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -562,7 +585,7 @@ Jun 17, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="V2FsZXMlMkNIaWtpbmc=" data-listing-date-sort="1781564400000" data-listing-file-modified-sort="1781713015386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="389">
+<div class="g-col-1" data-index="1" data-categories="V2FsZXMlMkNIaWtpbmc=" data-listing-date-sort="1781564400000" data-listing-file-modified-sort="1782251411061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="389">
 <a href="./travel/posts/2025-01-15-lisbon-in-february.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -598,7 +621,7 @@ Jun 16, 2026
 </a><p><a href="./arts/index.html"></a></p>
 <div id="listing-arts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TXklMjBBcnQlMkNJbXByZXNzaW9uaXNtJTJDUG9zdC1JbXByZXNzaW9uaXNtJTJDU3RpbGwlMjBMaWZl" data-listing-date-sort="1781737200000" data-listing-file-modified-sort="1781796703785" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="632">
+<div class="g-col-1" data-index="0" data-categories="TXklMjBBcnQlMkNJbXByZXNzaW9uaXNtJTJDUG9zdC1JbXByZXNzaW9uaXNtJTJDU3RpbGwlMjBMaWZl" data-listing-date-sort="1781737200000" data-listing-file-modified-sort="1782251410800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="632">
 <a href="./arts/posts/2026-06-18-still-life.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

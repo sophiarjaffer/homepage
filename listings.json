@@ -9,6 +9,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/music/posts/2026-06-23-desert-island-disks.html",
       "/nature/posts/2026-06-21-laverstock-hill.html",
       "/arts/posts/2026-06-18-still-life.html",
       "/nature/posts/2025-01-01-the-january-garden.html",
@@ -24,7 +25,9 @@
   },
   {
     "listing": "/music/index.html",
-    "items": []
+    "items": [
+      "/music/posts/2026-06-23-desert-island-disks.html"
+    ]
   },
   {
     "listing": "/nature/index.html",
@@ -36,6 +39,7 @@
   {
     "listing": "/latest-content.html",
     "items": [
+      "/music/posts/2026-06-23-desert-island-disks.html",
       "/nature/posts/2026-06-21-laverstock-hill.html",
       "/arts/posts/2026-06-18-still-life.html",
       "/nature/posts/2025-01-01-the-january-garden.html",
