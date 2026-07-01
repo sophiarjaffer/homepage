@@ -2,58 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://example.com/travel/index.html</loc>
-    <lastmod>2026-06-23T21:50:11.060Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.924Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/travel/posts/2025-01-15-lisbon-in-february.html</loc>
-    <lastmod>2026-06-23T21:50:11.061Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.924Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/about.html</loc>
-    <lastmod>2026-06-23T21:50:10.800Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.796Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/index.html</loc>
-    <lastmod>2026-06-23T21:50:11.059Z</lastmod>
+    <lastmod>2026-07-01T00:08:13.565Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2026-06-21-laverstock-hill.html</loc>
-    <lastmod>2026-06-23T21:50:11.060Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.924Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/arts/index.html</loc>
-    <lastmod>2026-06-23T21:50:10.800Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.797Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/music/index.html</loc>
-    <lastmod>2026-06-23T21:50:11.059Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.923Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/music/posts/2026-06-23-desert-island-disks.html</loc>
-    <lastmod>2026-06-23T21:50:11.059Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/music/posts/2026-07-01-the-cure.html</loc>
+    <lastmod>2026-06-30T23:34:40.110Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/arts/posts/2026-06-18-still-life.html</loc>
-    <lastmod>2026-06-23T21:50:10.800Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.797Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2025-01-01-the-january-garden.html</loc>
-    <lastmod>2026-06-23T21:50:11.060Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.924Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/index.html</loc>
-    <lastmod>2026-06-23T21:50:11.060Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.923Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/latest-content.html</loc>
-    <lastmod>2026-06-23T21:50:11.059Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.923Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/history/index.html</loc>
-    <lastmod>2026-06-23T21:50:10.801Z</lastmod>
+    <lastmod>2026-06-30T23:44:21.590Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/travel/posts/2026-06-17-stave-churches.html</loc>
-    <lastmod>2026-06-23T21:50:11.061Z</lastmod>
+    <lastmod>2026-06-23T21:50:54.924Z</lastmod>
   </url>
 </urlset>

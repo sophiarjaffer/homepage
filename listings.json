@@ -9,6 +9,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/music/posts/2026-07-01-the-cure.html",
       "/music/posts/2026-06-23-desert-island-disks.html",
       "/nature/posts/2026-06-21-laverstock-hill.html",
       "/arts/posts/2026-06-18-still-life.html",
@@ -26,6 +27,7 @@
   {
     "listing": "/music/index.html",
     "items": [
+      "/music/posts/2026-07-01-the-cure.html",
       "/music/posts/2026-06-23-desert-island-disks.html"
     ]
   },
@@ -39,6 +41,7 @@
   {
     "listing": "/latest-content.html",
     "items": [
+      "/music/posts/2026-07-01-the-cure.html",
       "/music/posts/2026-06-23-desert-island-disks.html",
       "/nature/posts/2026-06-21-laverstock-hill.html",
       "/arts/posts/2026-06-18-still-life.html",
@@ -46,9 +49,5 @@
       "/travel/posts/2026-06-17-stave-churches.html",
       "/travel/posts/2025-01-15-lisbon-in-february.html"
     ]
-  },
-  {
-    "listing": "/history/index.html",
-    "items": []
   }
 ]
