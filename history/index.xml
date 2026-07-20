@@ -10,7 +10,7 @@
 <atom:link href="https://example.com/history/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on my historical interests, including and beyond my project.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Thu, 02 Jul 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>An Introduction to My Thesis</title>
   <dc:creator>Sophia Jaffer</dc:creator>
@@ -54,7 +54,7 @@
   <category>Empire</category>
   <category>Postcolonial History</category>
   <guid>https://example.com/history/posts/2026-03-07-my-thesis.html</guid>
-  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/my thesis 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

@@ -10,7 +10,7 @@
 <atom:link href="https://example.com/latest-content.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 19 Jul 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Growing a Succulent Garden</title>
   <dc:creator>Sophia Jaffer</dc:creator>
@@ -25,8 +25,8 @@
 <h2 class="anchored" data-anchor-id="growing-a-succulent-garden">Growing a Succulent Garden</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://example.com/images/succulents.jpg" class="img-fluid figure-img"></p>
-<figcaption>My Succulent Garden</figcaption>
+<p><img src="https://example.com/images/succulent.jpg" class="img-fluid figure-img"></p>
+<figcaption>My Young Succulent Garden</figcaption>
 </figure>
 </div>
 <p>I was less than sixteen when I planted my first succulent garden. It was a pre-GCSE treat, an attempt to temper my (admittedly disproportionate) terror towards my approaching exams. I am an unapologetic lover of garden centres in all shapes and sizes, particularly those so large that they become their own liminal backroom-esque maze. Like cacti, succulents are an excellent present to give to a friend who can’t keep a plant alive. The clue is in the name, ‘succulent’ because parts are thick and ‘fleshy’ in order to retain water in arid climates or soil conditions. They store this water in both leaves and stems, with a water content of up to a staggering 90-95%. They are native largely to deserts or even alpine ecosystems in sandy or rocky soil and can survive off mist and dew. Therefore, they are brilliant at thriving on limited water sources, such as the once-a-year water in the novelty plant pot by the fireplace.</p>
@@ -40,7 +40,7 @@
   <category>Plants</category>
   <category>Gardening</category>
   <guid>https://example.com/nature/posts/2026-07-20-succulent-garden.html</guid>
-  <pubDate>Sun, 19 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/succulents.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -86,7 +86,7 @@
   <category>Empire</category>
   <category>Postcolonial History</category>
   <guid>https://example.com/history/posts/2026-03-07-my-thesis.html</guid>
-  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/my thesis 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -115,7 +115,7 @@
   <category>Scotland</category>
   <category>Roadtrip</category>
   <guid>https://example.com/travel/posts/2026-07-03-the-borderlands.html</guid>
-  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/borderlands.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -146,7 +146,7 @@
   <category>Live Music</category>
   <category>Review</category>
   <guid>https://example.com/music/posts/2026-07-01-the-cure.html</guid>
-  <pubDate>Tue, 30 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/the cure cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -193,7 +193,7 @@
  ]]></description>
   <category>Playlist</category>
   <guid>https://example.com/music/posts/2026-06-23-desert-island-disks.html</guid>
-  <pubDate>Mon, 22 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/desert-island-disks.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -218,7 +218,7 @@
  ]]></description>
   <category>Landscapes</category>
   <guid>https://example.com/nature/posts/2026-06-21-laverstock-hill.html</guid>
-  <pubDate>Sat, 20 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/Laverstock Hill.JPG" medium="image"/>
 </item>
 <item>
@@ -250,7 +250,7 @@
   <category>Post-Impressionism</category>
   <category>Still Life</category>
   <guid>https://example.com/arts/posts/2026-06-18-still-life.html</guid>
-  <pubDate>Wed, 17 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/Sophia Painting 2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -282,7 +282,7 @@
  ]]></description>
   <category>Birds</category>
   <guid>https://example.com/nature/posts/2025-01-01-the-january-garden.html</guid>
-  <pubDate>Tue, 16 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/black%20swans.JPG" medium="image"/>
 </item>
 <item>
@@ -313,7 +313,7 @@
   <category>Norway</category>
   <category>Architecture</category>
   <guid>https://example.com/travel/posts/2026-06-17-stave-churches.html</guid>
-  <pubDate>Tue, 16 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/stave churches.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -345,7 +345,7 @@
   <category>Wales</category>
   <category>Hiking</category>
   <guid>https://example.com/travel/posts/2025-01-15-lisbon-in-february.html</guid>
-  <pubDate>Mon, 15 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/elan-valley.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

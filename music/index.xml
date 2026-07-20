@@ -10,7 +10,7 @@
 <atom:link href="https://example.com/music/index.xml" rel="self" type="application/rss+xml"/>
 <description>For all my musical fascinations.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Tue, 30 Jun 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The Cure in Cardiff</title>
   <dc:creator>Sophia Jaffer</dc:creator>
@@ -39,7 +39,7 @@
   <category>Live Music</category>
   <category>Review</category>
   <guid>https://example.com/music/posts/2026-07-01-the-cure.html</guid>
-  <pubDate>Tue, 30 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/the cure cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -86,7 +86,7 @@
  ]]></description>
   <category>Playlist</category>
   <guid>https://example.com/music/posts/2026-06-23-desert-island-disks.html</guid>
-  <pubDate>Mon, 22 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/images/desert-island-disks.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
