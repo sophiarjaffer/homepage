@@ -17,13 +17,29 @@
   {
     "listing": "/music/index.html",
     "items": [
+      "/music/posts/2026-08-04-summer-playlist.html",
       "/music/posts/2026-07-01-the-cure.html",
       "/music/posts/2026-06-23-desert-island-disks.html"
     ]
   },
   {
+    "listing": "/history/index.html",
+    "items": [
+      "/history/posts/2026-03-07-my-thesis.html"
+    ]
+  },
+  {
+    "listing": "/travel/index.html",
+    "items": [
+      "/travel/posts/2026-07-03-the-borderlands.html",
+      "/travel/posts/2026-06-17-stave-churches.html",
+      "/travel/posts/2025-01-15-lisbon-in-february.html"
+    ]
+  },
+  {
     "listing": "/latest-content.html",
     "items": [
+      "/music/posts/2026-08-04-summer-playlist.html",
       "/nature/posts/2026-08-02-red-kites.html",
       "/nature/posts/2026-07-20-succulent-garden.html",
       "/history/posts/2026-03-07-my-thesis.html",
@@ -38,22 +54,9 @@
     ]
   },
   {
-    "listing": "/travel/index.html",
-    "items": [
-      "/travel/posts/2026-07-03-the-borderlands.html",
-      "/travel/posts/2026-06-17-stave-churches.html",
-      "/travel/posts/2025-01-15-lisbon-in-february.html"
-    ]
-  },
-  {
-    "listing": "/history/index.html",
-    "items": [
-      "/history/posts/2026-03-07-my-thesis.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/music/posts/2026-08-04-summer-playlist.html",
       "/nature/posts/2026-08-02-red-kites.html",
       "/nature/posts/2026-07-20-succulent-garden.html",
       "/history/posts/2026-03-07-my-thesis.html",

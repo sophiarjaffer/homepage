@@ -2,78 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://example.com/arts/index.html</loc>
-    <lastmod>2026-08-02T22:16:38.586Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.141Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/index.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2026-07-20-succulent-garden.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2025-01-01-the-january-garden.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/music/index.html</loc>
-    <lastmod>2026-08-02T22:16:39.001Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/music/posts/2026-07-01-the-cure.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/history/posts/2026-03-07-my-thesis.html</loc>
-    <lastmod>2026-08-02T22:16:38.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/travel/posts/2026-06-17-stave-churches.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/travel/posts/2025-01-15-lisbon-in-february.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/about.html</loc>
-    <lastmod>2026-08-02T22:16:38.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/latest-content.html</loc>
-    <lastmod>2026-08-02T22:16:39.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/travel/posts/2026-07-03-the-borderlands.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/travel/index.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/history/index.html</loc>
-    <lastmod>2026-08-02T22:16:38.586Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/travel/index.html</loc>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/travel/posts/2026-07-03-the-borderlands.html</loc>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/latest-content.html</loc>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/about.html</loc>
+    <lastmod>2026-08-04T15:27:51.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/travel/posts/2025-01-15-lisbon-in-february.html</loc>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/travel/posts/2026-06-17-stave-churches.html</loc>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/history/posts/2026-03-07-my-thesis.html</loc>
+    <lastmod>2026-08-04T15:27:51.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/music/posts/2026-08-04-summer-playlist.html</loc>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/music/posts/2026-06-23-desert-island-disks.html</loc>
-    <lastmod>2026-08-02T22:16:39.001Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.530Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/index.html</loc>
-    <lastmod>2026-08-02T22:16:39.000Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.529Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2026-08-02-red-kites.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/nature/posts/2026-06-21-laverstock-hill.html</loc>
-    <lastmod>2026-08-02T22:16:39.002Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.531Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/arts/posts/2026-06-18-still-life.html</loc>
-    <lastmod>2026-08-02T22:16:38.586Z</lastmod>
+    <lastmod>2026-08-04T15:27:51.141Z</lastmod>
   </url>
 </urlset>
