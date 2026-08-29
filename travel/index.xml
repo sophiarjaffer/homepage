@@ -10,7 +10,50 @@
 <atom:link href="https://example.com/travel/index.xml" rel="self" type="application/rss+xml"/>
 <description>A diary of my travels.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Tue, 11 Aug 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Vienna</title>
+  <dc:creator>Sophia Jaffer</dc:creator>
+  <link>https://example.com/travel/posts/2026-08-29-vienna.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="vienna" class="level2">
+<h2 class="anchored" data-anchor-id="vienna">Vienna</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://example.com/images/vienna 3.JPG" class="img-fluid figure-img"></p>
+<figcaption>Vienna</figcaption>
+</figure>
+</div>
+<p>I have wanted to visit Vienna ever since I developed a love for Billy Joel. Would this city really be the calm, beautiful retirement dream that ‘Vienna’ promised? I visited Vienna last summer, in August 2025, with my best friend. It was the first stop on our mini interrail through Vienna-Prague-Berlin. We were fresh faced and excited about our journey, and Vienna certainly did not disappoint. I think I can confidently say that Vienna has been my favourite European city that I have visited (so far). I measure this by two very watertight criteria: whether I could live there myself, and vibes. Vienna is a beautifully functional place, and I say this in the most literal sense. I was overwhelmed by the how artfully harmonious the city planning was, namely that every aspect of the city’s transport worked coherently together without fault. The trams, pedestrians, buses and bikes all had their rightful places, and worked so smoothly that there was an atmosphere of peace in the centre of the city that is tough to find across Europe. It was not too sparse, a criticism that I would level towards Berlin, perfectly walkable, but open and quiet enough to feel unbothered in even the most exciting of tourist spots.</p>
+<p>Vienna is a rich city of art. In the Österreichische Galerie Belvedere, you can see Gustav Klimt’s incredible ‘The Kiss’, which in real life is large and sparkling with gold leaf, silver and platinum. It does not draw the same crowds as the Mona Lisa in The Louvre, but perhaps it should. I have been a long fan of Klimt, from as early as school, where I drew my own (vastly inferior) interpretations of ‘The Tree of Life’. Gustav Klimt was born near Vienna in 1862 and was a founding member of the Vienna Secession Movement, a movement which sought to dispute artistic nationalism and official art salons and styles, instead creating ‘total art’ (Gesamtkunstwerk) which aimed to unify painting, architecture and the decorative arts. The ceiling of the Österreichische Galerie Belvedere holds Carlo Innocenzo Carlone’s (1686-1775) beautiful ‘Prince Eugene as a new Apollo and Leader of the Muses’, a striking addition to the Marble Hall in the Belvedere Palace. It is a beautiful Rococo-style room which more broadly encapsulates the essence of Vienna. Then, there is the Hundertwasserhaus, an artistic apartment house designed by Friedensreich Hundertwasser to harmonise architecture with nature and man. We visited Kunst Haus Wein, an alternative to Hundertwasserhaus, which I will write about some more in another post. We also saw a great selection of art at the Leopold Museum, including (inevitably) more Klimt and works by Expressionist Egon Schiele.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://example.com/images/vienna 4.JPG" class="img-fluid figure-img"></p>
+<figcaption>Österreichische Galerie Belvedere</figcaption>
+</figure>
+</div>
+<p>For our trip, we made the smart and travel-changing decision to only eat at vegan restaurants (to account for my allergies to dairy, nuts and eggs). Vienna had plenty to offer when it came to vegan options. At Café Harvest, we tried the vegan ‘schnitzerl’, with warm potato salad and sweet relish, and at Veggiezz, we had some classic vegan burgers and sparkling drinks. The highlight of Vienna’s vegan offerings, however, was doubtlessly Veganista, an ice cream chain that offered a brilliant selection of vegan ice creams and sorbets (although not as good as Hungary, the best country for vegan ice creams I’ve visited, which I will certainly talk about another time). We were certainly satisfied at the end of the trip, and I would love the opportunity to visit Vienna again in the near future (perhaps in winter this time?). As I said, one of my marks of loving a place is imagining myself living there, and I certainly see myself living in Vienna. Billy Joel was right! I can’t wait to explore even more of what Vienna has to offer.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://example.com/images/vienna 2.JPG" class="img-fluid figure-img"></p>
+<figcaption>Schnitzerl at Café Harvest</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Austria</category>
+  <guid>https://example.com/travel/posts/2026-08-29-vienna.html</guid>
+  <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://example.com/images/vienna.JPG" medium="image"/>
+</item>
 <item>
   <title>Port Eynon</title>
   <dc:creator>Sophia Jaffer</dc:creator>
